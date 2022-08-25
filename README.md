@@ -14,5 +14,5 @@ git pull y :tada: (desde VSC)
 git commit -m "Aquí estoy subiendo el proyecto"
 git push
 git add comandos.txt
-git commit -m "Hcd istorial de comandos"
+git commit -m "Historial de comandos"
 git push
