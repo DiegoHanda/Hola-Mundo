@@ -11,8 +11,5 @@ git config --global user.email "diego.handalian@correo.ucu.edu.uy"
 git config --global user.name "DiegoHanda"
 git push
 git pull y :tada: (desde VSC)
-git commit -m "Aquí estoy subiendo el proyecto"
-git push
-git add comandos.txt
 git commit -m "Lista de comandos"
 git push
